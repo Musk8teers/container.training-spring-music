@@ -1,0 +1,205 @@
+[
+    {
+        "_class": "org.cloudfoundry.samples.music.domain.Album",
+        "artist": "Michael Giacchino",
+        "title": "The Batman",
+        "releaseYear": "2022",
+        "genre": "Original Motion Picture Soundtrack"
+    },
+    {
+        "_class": "org.cloudfoundry.samples.music.domain.Album",
+        "artist": "John Williams",
+        "title": "Star Wars: Episode IV: A New Hope",
+        "releaseYear": "1977",
+        "genre": "Original Motion Picture Soundtrack"
+    },
+    {
+        "_class": "org.cloudfoundry.samples.music.domain.Album",
+        "artist": "Giovanni Nino Rota",
+        "title": "The Godfather",
+        "releaseYear": "1972",
+        "genre": "Original Motion Picture Soundtrack"
+    },
+    {
+        "_class": "org.cloudfoundry.samples.music.domain.Album",
+        "artist": "Ennio Morricone",
+        "title": "The Good, The Bad And The Ugly",
+        "releaseYear": "1966",
+        "genre": "Original Motion Picture Soundtrack"
+    },
+    {
+        "_class": "org.cloudfoundry.samples.music.domain.Album",
+        "artist": "Max Steiner",
+        "title": "Gone With The Wind",
+        "releaseYear": "1939",
+        "genre": "Original Motion Picture Soundtrack"
+    },
+    {
+        "_class": "org.cloudfoundry.samples.music.domain.Album",
+        "artist": "Max Steiner",
+        "title": "Casablanca",
+        "releaseYear": "1942",
+        "genre": "Original Motion Picture Soundtrack"
+    },
+    {
+        "_class": "org.cloudfoundry.samples.music.domain.Album",
+        "artist": "John Williams",
+        "title": "Raiders Of The Lost Ark",
+        "releaseYear": "1981",
+        "genre": "Original Motion Picture Soundtrack"
+    },
+    {
+        "_class": "org.cloudfoundry.samples.music.domain.Album",
+        "artist": "Bill Conti",
+        "title": "Rocky",
+        "releaseYear": "1976",
+        "genre": "Original Motion Picture Soundtrack"
+    },
+    {
+        "_class": "org.cloudfoundry.samples.music.domain.Album",
+        "artist": "Howard Shore",
+        "title": "The Lord Of The Rings: The Fellowship Of The Ring",
+        "releaseYear": "2001",
+        "genre": "Original Motion Picture Soundtrack"
+    },
+    {
+        "_class": "org.cloudfoundry.samples.music.domain.Album",
+        "artist": "John Williams",
+        "title": "Jaws",
+        "releaseYear": "1975",
+        "genre": "Original Motion Picture Soundtrack"
+    },
+    {
+        "_class": "org.cloudfoundry.samples.music.domain.Album",
+        "artist": "Alan Silvestri",
+        "title": "Back To The Future",
+        "releaseYear": "1985",
+        "genre": "Original Motion Picture Soundtrack"
+    },
+    {
+        "_class": "org.cloudfoundry.samples.music.domain.Album",
+        "artist": "Maurice Jarre",
+        "title": "Lawrence Of Arabia",
+        "releaseYear": "1962",
+        "genre": "Original Motion Picture Soundtrack"
+    },
+    {
+        "_class": "org.cloudfoundry.samples.music.domain.Album",
+        "artist": "James Horner",
+        "title": "Braveheart",
+        "releaseYear": "1995",
+        "genre": "Original Motion Picture Soundtrack"
+    },
+    {
+        "_class": "org.cloudfoundry.samples.music.domain.Album",
+        "artist": "John Williams",
+        "title": "Superman",
+        "releaseYear": "1978",
+        "genre": "Original Motion Picture Soundtrack"
+    },
+    {
+        "_class": "org.cloudfoundry.samples.music.domain.Album",
+        "artist": "Danny Elfman",
+        "title": "Batman",
+        "releaseYear": "1989",
+        "genre": "Original Motion Picture Soundtrack"
+    },
+    {
+        "_class": "org.cloudfoundry.samples.music.domain.Album",
+        "artist": "Bernard Herrmann",
+        "title": "Psycho",
+        "releaseYear": "1960",
+        "genre": "Original Motion Picture Soundtrack"
+    },
+    {
+        "_class": "org.cloudfoundry.samples.music.domain.Album",
+        "artist": "Henry Mancini",
+        "title": "The Pink Panther",
+        "releaseYear": "1963",
+        "genre": "Original Motion Picture Soundtrack"
+    },
+    {
+        "_class": "org.cloudfoundry.samples.music.domain.Album",
+        "artist": "Vangelis",
+        "title": "Chariots Of Fire",
+        "releaseYear": "1981",
+        "genre": "Original Motion Picture Soundtrack"
+    },
+    {
+        "_class": "org.cloudfoundry.samples.music.domain.Album",
+        "artist": "Elmer Bernstein",
+        "title": "The Magnificent Seven",
+        "releaseYear": "1960",
+        "genre": "Original Motion Picture Soundtrack"
+    },
+    {
+        "_class": "org.cloudfoundry.samples.music.domain.Album",
+        "artist": "Vangelis",
+        "title": "Blade Runner",
+        "releaseYear": "1994",
+        "genre": "Original Motion Picture Soundtrack"
+    },
+    {
+        "_class": "org.cloudfoundry.samples.music.domain.Album",
+        "artist": "",
+        "title": "Halloween",
+        "releaseYear": "1978",
+        "genre": "Original Motion Picture Soundtrack"
+    },
+    {
+        "_class": "org.cloudfoundry.samples.music.domain.Album",
+        "artist": "György Ligeti",
+        "title": "2001: A Space Odyssey",
+        "releaseYear": "1968",
+        "genre": "Original Motion Picture Soundtrack"
+    },
+    {
+        "_class": "org.cloudfoundry.samples.music.domain.Album",
+        "artist": "Brad Feidel",
+        "title": "Terminator 2: Judgement Day",
+        "releaseYear": "1991",
+        "genre": "Original Motion Picture Soundtrack"
+    },
+    {
+        "_class": "org.cloudfoundry.samples.music.domain.Album",
+        "artist": "Danny Elfman",
+        "title": "Edward Scissorhands",
+        "releaseYear": "1990",
+        "genre": "Original Motion Picture Soundtrack"
+    },
+    {
+        "_class": "org.cloudfoundry.samples.music.domain.Album",
+        "artist": "Ennio Morricone",
+        "title": "Once Upon A Time In The West",
+        "releaseYear": "1969",
+        "genre": "Original Motion Picture Soundtrack"
+    },
+    {
+        "_class": "org.cloudfoundry.samples.music.domain.Album",
+        "artist": "Basil Poledouris",
+        "title": "Conan The Barbarian",
+        "releaseYear": "1982",
+        "genre": "Original Motion Picture Soundtrack"
+    },
+    {
+        "_class": "org.cloudfoundry.samples.music.domain.Album",
+        "artist": "George Miller",
+        "title": "Mad Max: Fury Road",
+        "releaseYear": "2015",
+        "genre": "Original Motion Picture Soundtrack"
+    },
+    {
+        "_class": "org.cloudfoundry.samples.music.domain.Album",
+        "artist": "John Williams",
+        "title": "The Empire Strikes Back",
+        "releaseYear": "1980",
+        "genre": "Original Motion Picture Soundtrack"
+    },
+    {
+        "_class": "org.cloudfoundry.samples.music.domain.Album",
+        "artist": "Bruce Langhorne",
+        "title": "The Hired Hand",
+        "releaseYear": "1971",
+        "genre": "Original Motion Picture Soundtrack"
+    }
+]
