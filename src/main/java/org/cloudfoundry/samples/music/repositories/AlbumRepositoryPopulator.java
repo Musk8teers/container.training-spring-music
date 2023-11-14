@@ -21,7 +21,7 @@ public class AlbumRepositoryPopulator implements ApplicationListener<Application
         ObjectMapper mapper = new ObjectMapper();
         mapper.configure(DeserializationFeature.FAIL_ON_UNKNOWN_PROPERTIES, false);
         resourceReader = new Jackson2ResourceReader(mapper);
-        sourceData = new ClassPathResource("albums-singers.json");
+        sourceData = new ClassPathResource("albums-soundtracks.json");
     }
 
     @Override
@@ -29,7 +29,7 @@ public class AlbumRepositoryPopulator implements ApplicationListener<Application
         CrudRepository albumRepository =
                 BeanFactoryUtils.beanOfTypeIncludingAncestors(event.getApplicationContext(), CrudRepository.class);
 
-        if (albumRepository != null && albumRepository.count() == 0) {
+        if (albumRepository != null) {
             populate(albumRepository);
         }
     }
