@@ -7,13 +7,15 @@ spec:
     matchLabels:
       app: db
   serviceName: db
-  updateStrategy: RollingUpdate
+  updateStrategy:
+    type: RollingUpdate
+    rollingUpdate:
+      partition: 0
   template:
     metadata:
       labels:
         app: db
     spec:
-      force: true
       initContainers:
       - name: rmdir
         image: alpine
