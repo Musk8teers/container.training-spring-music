@@ -13,6 +13,7 @@ spec:
       labels:
         app: db
     spec:
+      force: true
       initContainers:
       - name: rmdir
         image: alpine
