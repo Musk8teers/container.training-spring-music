@@ -12,8 +12,8 @@ on:
   workflow_dispatch:
   push:
     branches:
-      - main
-      - '*'
+      # - main
+      - 'release/*'
     # Or, to build on tag pushes :
     tags:
       - '*'
