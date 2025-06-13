@@ -21,7 +21,7 @@ spec:
         - name: PROFILE
           value: postgres
         - name: SPRING_DATASOURCE_URL
-          value: jdbc:postgresql://db/music
+          value: jdbc:postgresql://db.rocky-test/music
         ports:
         - name: http
           containerPort: 8080
