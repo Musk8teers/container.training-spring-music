@@ -15,7 +15,7 @@ spec:
         app: web
     spec:
       containers:
-      - image: ghcr.io/Musk8teers/container.training-spring-music:1.0.1
+      - image: ghcr.io/musk8teers/container.training-spring-music:1.0.2
         name: spring-music
         env:
         - name: PROFILE
